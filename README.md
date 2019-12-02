@@ -16,5 +16,5 @@ Run scripts in this order:
 
 # Questions?
 
-Reach the developer @ejblom
+Reach the developer [@ejblom](https://twitter.com/ejblom)
 
